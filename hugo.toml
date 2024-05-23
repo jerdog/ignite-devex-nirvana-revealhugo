@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'From DevEx Nevermind to Smells Like Teen Spirit: How to Champion a Developer Experience Revolution'
 
 theme = ["github.com/dzello/reveal-hugo"]
 
@@ -40,7 +40,7 @@ isHTML = true
     font = 'Open Sans'
     font_size = 5
 
-[params.reveal_hugo]
+  [params.reveal_hugo]
     theme = 'night'
     margin = 0.1
     transition = 'slide'
